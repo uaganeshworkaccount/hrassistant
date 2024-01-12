@@ -1,5 +1,5 @@
-var botId = "st-12345";
-var botName = "testBot";
+var botId = "st-581da337-f867-5ffb-af1d-94ed5194a194";
+var botName = "HR_Assistant";
 
 var sdk = require("./lib/sdk");
 var botVariables = {};
