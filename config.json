@@ -1,0 +1,41 @@
+{
+    "server": {
+        "port": 8003
+    },
+    "app": {
+        "apiPrefix" : "",
+        "url": "https://0ddf-122-174-183-138.ngrok-free.app"
+    },
+    "validations": {
+        "leastNodeVersion": 10
+    },
+    "credentials": {
+        "apikey": "RPk4caxjjAfbgUBdyiyBWMLtSUcRwPwtTTM7cUueYM0=",
+        "appId": "cs-31f7a8bb-55ed-558e-8f64-a145c47e5797",
+        "st-581da337-f867-5ffb-af1d-94ed5194a194":{
+            "apikey": "RPk4caxjjAfbgUBdyiyBWMLtSUcRwPwtTTM7cUueYM0=",
+            "appId": "cs-31f7a8bb-55ed-558e-8f64-a145c47e5797"
+        }
+    },
+    "jwt": {
+        "jwtAlgorithm": "HS256",
+        "jwt-expiry": 60,
+        "st-581da337-f867-5ffb-af1d-94ed5194a194":{
+            "jwtAlgorithm": "HS512",
+            "jwt-expiry": 60
+        }
+    },
+    "redis": {
+        "options": {
+            "host": "localhost",
+            "port": 6379
+        },
+        "available": false
+    },
+    "examples" : {
+        "mockServicesHost"  : "http://localhost:8004"
+    },
+    "liveagentlicense": "8947569",
+    "supportsMessageAck": true,
+    "languages":["en","de"]
+}
