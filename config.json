@@ -4,11 +4,11 @@
     },
     "app": {
     "apiPrefix" : "",
-    "url": "< ngrok Forwarding URL >"
+    "url": "https://botkit-ciuo.onrender.com/"
     },
     "credentials": {
-    "apikey": "< Client Secret from XO Platform >",
-    "appId": "< Client ID from XO Platform >"
+    "apikey": "RPk4caxjjAfbgUBdyiyBWMLtSUcRwPwtTTM7cUueYM0=",
+    "appId": "cs-31f7a8bb-55ed-558e-8f64-a145c47e5797"
     },
     "redis": {
     "options": {
@@ -18,7 +18,7 @@
     "available": false
     },
     "examples" : {
-    "mockServicesHost" : "http://localhost:8004"
+    "mockServicesHost" : "https://botkit-ciuo.onrender.com/"
     },
     "liveagentlicense": "< LiveChat License Key >"
     }
