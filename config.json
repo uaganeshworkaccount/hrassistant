@@ -1,9 +1,9 @@
 {
     "server": {
-    "port": 8003
+    "port": 3000
     },
     "app": {
-    "apiPrefix" : "",
+    "apiPrefix" : "https://botkit-ciuo.onrender.com/",
     "url": "https://botkit-ciuo.onrender.com/"
     },
     "credentials": {
