@@ -14,6 +14,7 @@ module.exports = {
     botName : botName,
 
     on_user_message : function(requestId, data, callback) {
+        console.log("message Recieving");
         if (data.message === "ganesh") {
             data.message = "Hello Ganesh!, Welcome to XO Platform";
             //Sends back 'Hello' to user.
