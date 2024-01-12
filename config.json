@@ -4,7 +4,7 @@
     },
     "app": {
         "apiPrefix" : "",
-        "url": "https://0ddf-122-174-183-138.ngrok-free.app"
+        "url": "https://botkit-phmq.onrender.com/"
     },
     "validations": {
         "leastNodeVersion": 10
@@ -33,7 +33,7 @@
         "available": false
     },
     "examples" : {
-        "mockServicesHost"  : "http://localhost:8004"
+        "mockServicesHost"  : "https://botkit-phmq.onrender.com:8004"
     },
     "liveagentlicense": "8947569",
     "supportsMessageAck": true,
